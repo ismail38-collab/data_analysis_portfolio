@@ -1,6 +1,6 @@
 # PYTHON PROJECTS
 
-# Project 1  Finding temperature anomalies in istanbul in 2019 by using Python:
+# Project 1 : Finding temperature anomalies in istanbul in 2019 by using Python:
 ## Project Summary
 This project analyzes approximately 13 years of daily weather data to detect heat anomalies days in the year 2019.
 By calculating the long-term average and standard deviation of daily temperatures for each calendar day, the project identifies which dates in 2019 had unusuall temperatures compared to historical patterns.
