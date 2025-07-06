@@ -1,14 +1,14 @@
 # data_analysis_portfolio
 a portfolio for data analysis projects
-# project 1  Finding temperature anomalies in istanbul in 2019 by using Python:
+# Project 1  Finding temperature anomalies in istanbul in 2019 by using Python:
 ## Project Summary
 This project analyzes approximately 13 years of daily weather data to detect heat anomalies days in the year 2019.
 By calculating the long-term average and standard deviation of daily temperatures for each calendar day, the project identifies which dates in 2019 had unusuall temperatures compared to historical patterns.
 ## Technologies used
-1. python 3x
-2. matplotlib ( for data visualization)
-3. pandas ( for data manipulation)
-4. numpy ( for statistics )
+* python 3x
+* matplotlib ( for data visualization)
+* pandas ( for data manipulation)
+* numpy ( for statistics )
 ## About data
 * dataset includes daily maximum and minimum temperatures in istanbul for 10 years and dates
 * data is taken from kaggle = https://www.kaggle.com/datasets/vonline9/weather-istanbul-data-20092019/data
