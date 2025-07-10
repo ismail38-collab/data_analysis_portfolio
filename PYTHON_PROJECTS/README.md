@@ -23,20 +23,20 @@ By calculating the long-term average and standard deviation of daily temperature
 8.  identify days with z score higher than 2 and put them into two dataframes
 9.  visualize results
 
-# Project 2 : calculating and visualizing volatility , cumulative return and return to risk ratio of Apple and Tesla stocks
+# Project 2 : Multi-Stock Price Analysis Project
 ## Project Summary
 In this project, 5 years of closing price data (2020–2025) for Tesla and Apple are analyzed to calculate cumulative returns, volatility, and return-to-risk ratios. The results are visualized to support clear comparisons between the stocks.
 ## About data
 * dataset includes closing prices of apple and tesla stocks for 5 years . Data is taken from yfinance through their python API.
 * original dataset does not require any cleaning
 ## Project worklow
-1.import libraires
-2.load data using yfinace API of python
-3.superficial observaitons to understand data
-4.visualize stock prices
-5.calculate daily and cumulative returns of stocks visualize results
-6.calculate volatlilty for 30 day windows visualize result
-7.calculate cumulative returns for 30 day windows to align with volatility better
-8.calculate return to risk ratio using cumulative return and volatility
-9.visualize return to risk ratio for 2024
+1. import libraires
+2. load data using yfinace API of python
+3. superficial observaitons to understand data
+4. visualize stock prices
+5. calculate daily and cumulative returns of stocks visualize results
+6. calculate volatlilty for 30 day windows visualize result
+7. calculate cumulative returns for 30 day windows to align with volatility better
+8. calculate return to risk ratio using cumulative return and volatility
+9. visualize return to risk ratio for 2024
 
